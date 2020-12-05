@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/custom.css"],"names":[],"mappings":"AAAA,iBACC,cAAiB,CACjB,eACD,CAEA,cAIC,YACD","file":"main.10193839.chunk.css","sourcesContent":[".container-fluid {\n\tpadding-left: 0px;\n\tpadding-right: 0px;\n}\n\n.card-columns {\n\tpadding-left: 15px;\n\tpadding-right: 15px;\n\tpadding-top: 15px;\n\tpadding-bottom: 15px;\n}\n"]}
