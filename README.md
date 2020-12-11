@@ -6,5 +6,5 @@ Visit: https://m-m-black.github.io/wiki-random/
 
 ### TO DO
 
-- [ ] Implement infinite scroll where new articles load upon reaching the bottom of the page
+- [ ] Implement infinite scroll such that new articles load upon reaching the bottom of the page
 - [ ] Improve loading time of articles
