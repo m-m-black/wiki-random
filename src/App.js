@@ -91,7 +91,7 @@ class MyCard extends React.Component {
 const MyNavbar = (props) => {
 	return (
 		<Navbar bg="primary" variant="dark">
-			<Navbar.Brand>Random Wikipedia Articles :)</Navbar.Brand>
+			<Navbar.Brand>10 Random Wikipedia Articles</Navbar.Brand>
 		</Navbar>
 	);
 }
